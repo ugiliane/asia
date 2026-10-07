@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+  </head>
+   <link rel="stylesheet" href="style.css">
+  <head>
+  <body>
+    <div id="center">
+    <h1>Photo</h1>
+    <p class="text">Nice<p>
+      <img id="imag" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX_ZxEOZCHk8NOZiCGDyXGzNQJxFZZ4AJyklfzswFrHw&s=10">
+  </body>
+<html>
